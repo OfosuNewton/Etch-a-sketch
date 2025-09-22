@@ -38,7 +38,7 @@ Open index.html in your browser.
 Start sketching!
 
 📸 Demo
-
+![alt text](image-1.png)
 
 
 🔮 Next Steps
