@@ -1,6 +1,6 @@
 # Etch-a-sketch Project 🎨
 
-A browser-based sketching board where you can draw pixel art by hovering or clicking over a customizable grid. Built with vanilla JavaScript, HTML, and CSS — no frameworks, just pure DOM manipulation.
+A browser-based sketching board where you can draw pixel art by hovering over a customizable grid. Built with vanilla JavaScript, HTML, and CSS — no frameworks, just pure DOM manipulation.
 
 ✨ Highlights
 
